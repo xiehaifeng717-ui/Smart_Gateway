@@ -21,3 +21,9 @@
 1. **编译**: 
    ```bash
    make
+2. **运行**
+   ```bash
+   ./build/smart_gateway
+3. **清理**
+   ```bash
+   make clean
